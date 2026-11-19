@@ -1,22 +1,6 @@
 # 🛠️ SQL for Data Engineering - Full Course
 
-Data Nerds! This repo contains all the projects needed to follow along with my free course: [SQL for Data Engineering](https://youtu.be/UjhFbq4uU2Y)
-[![SQL for Data Engineering](Resources/images/0_SQL_Data_Engineering_thumbnail.png)](https://youtu.be/UjhFbq4uU2Y)
-[Support the course and get practice problems, course certificate, and more!](https://www.lukebarousse.com/sql-de)
-
-## Team Members 👥
-**🙋🏼‍♂️ Course Leader:** [Luke Barousse](https://www.linkedin.com/in/luke-b)  
-**🎬 Course Producer:** [Kelly Adams](https://www.linkedin.com/in/kellyjianadams)  
-**💻 Content Developer:** [Rikki Singh](https://www.linkedin.com/in/rikkisingh)  
-**📺 Video Editor:** [Brannon Linder](https://www.linkedin.com/in/brannonlinder)  
-
-## Table of Contents
-
-### [Projects](Projects/)
-
-- [**Project #1:** Exploratory Data Analysis](Projects/1_EDA/) — Job market analytics with SQL
-- [**Project #2:** Data Warehouse & Mart Build](Projects/2_WH_Mart_Build/) — Production ETL pipeline from raw CSVs to star schema and data marts
-- [**Project #3:** Flat to Warehouse Build](Projects/3_Flat_to_WH_Build/) — Transform flat job posting data into a normalized star schema *(bonus project, not covered in video)*
+This repo contains my leson notes from Luke Barousse's [SQL Course](https://www.youtube.com/watch?v=UjhFbq4uU2Y&list=PL_CkpxkuPiT9aSqaE7fTNJH5W2X0Ow8qf&index=2)
 
 ## How to Run SQL
 
@@ -50,19 +34,3 @@ ATTACH 'md:_share/data_jobs/87603155-cdc7-4c80-85ad-3a6b0d760d93'
    ```
 
 4. **For running project files:** Follow the instructions outlined in each [project section](Projects/).
-
-## Found a Typo? Want to Contribute?
-- If you find an error in this repo, please feel free to make a pull request by:
-    - Forking the repo
-    - Making any changes
-    - Submitting a pull request
-
-## Special Thanks 🙌
-
-<div style="width:25%; margin:auto;">
-  <img src="Resources/images/0_SerpAPI.png" alt="SerpApi Logo" style="width:100%;">
-</div>
-
-A special thanks to [SerpApi](https://serpapi.com/), whose generous credits made it possible to gather the job postings data used in this course.
-
-If you're interested in using SerpApi for your own data projects, [sign up here](https://serpapi.com/) and mention **Luke sent you** to get an additional **20% off** paid plans!
